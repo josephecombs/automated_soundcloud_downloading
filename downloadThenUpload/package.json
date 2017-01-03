@@ -1,0 +1,26 @@
+{
+  "name": "automated_soundcloud_downloading",
+  "version": "1.0.0",
+  "description": "automated_soundcloud_downloading",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephecombs/automated_soundcloud_downloading.git"
+  },
+  "author": "josephecombs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephecombs/automated_soundcloud_downloading/issues"
+  },
+  "homepage": "https://github.com/josephecombs/automated_soundcloud_downloading",
+  "dependencies": {
+    "youtube-dl": "^1.11.1",
+	"dropbox": "^2.5.0",
+	"fs": "^0.0.1-security",
+	"gulp": "^3.9.1",
+	"gulp-zip": "^3.2.0",
+	"gulp-chmod": "^2.0.0",
+	"del": "^2.2.2",
+	"gulp-install": "^0.6.0",
+	"run-sequence": "^1.2.2"
+  }
+}

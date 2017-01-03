@@ -1,0 +1,14 @@
+/downloadThenUpload/node_modules
+/downloadThenUpload/dist*
+/soundcloudNetworkRequestHandler2/node_modules
+/soundcloudNetworkRequestHandler2/dist*
+downloadThenUpload/node_modules
+downloadThenUpload/dist*
+soundcloudNetworkRequestHandler2/node_modules
+soundcloudNetworkRequestHandler2/dist*
+/soundcloudNetworkRequestHandler2/real_post_gateway_event.txt
+/soundcloudNetworkRequestHandler2/sample_event.txt
+/downloadThenUpload/real_dynamodb_write_event.txt
+/downloadThenUpload/sample_event.txt
+system_design_notes.txt
+permissions.txt
